@@ -56,8 +56,8 @@
         <head xml:id="kzz7yh-g68274-Hd1e101">Articulus 1</head>
         <p xml:id="kzz7yh-g68274-d1e103">
           ¶ Circa 
-          <lb ed="#V" n="63"/>primum queruntur tria. Primo vtrum in qualibet creatu 
-          <lb ed="#V" n="64"/>ra sit aliquis amor. Secundo vtrum quelibet actio cuiusli¬ 
+          <lb ed="#V" n="63"/>primum queruntur tria. Primo vtrum in qualibet  
+          creatu<lb ed="#V" n="64" break="no"/>ra sit aliquis amor. Secundo vtrum quelibet actio cuius li¬ 
           <!--00204.xml-->
           <cb ed="#V" n="b"/>
           <lb ed="#V" n="65"/>bet creature sit ex amore. Tertio vtrum vnitas cuiuslibet 
@@ -65,11 +65,12 @@
         </p>
         <div xml:id="kzz7yh-g68274-Dd1e119">
           <head xml:id="kzz7yh-g68274-Hd1e121">Quaestio 1</head>
+          <head type= "question-title">Utrum in qualibet creatura sit aliquis amor</head>
           <p xml:id="kzz7yh-g68274-d1e123">
-            Questio. 
+            Questio. I
             <lb ed="#V" n="67"/>PRimo ostendo quod non in qualibet 
             crea<lb ed="#V" n="68" break="no"/>tura est aliquis amor: quia secundum 
-            Au<lb ed="#V" n="69" break="no"/>gu. 10. de trini. c. I. Non possunt amari: nisi 
+            <ref>Au<lb ed="#V" n="69" break="no"/>gu. 10. de trini. c. I.</ref> Non possunt amari: nisi 
             co<lb ed="#V" n="70" break="no"/>gnita: sed multe sunt creature carentes 
             cogni<lb ed="#V" n="71" break="no"/>tione: ergo multe sunt creature in quibus nullus est amor. 
           </p>
@@ -86,7 +87,7 @@
           </p>
           <p xml:id="kzz7yh-g68274-d1e154">
             <lb ed="#V" n="78"/>Contra: omnis appetitus boni est amor: vel 
-            proceden<lb ed="#V" n="79" break="no"/>ex amore: sed secundum philosophum I ethi. c. I. Omnia 
+            proceden<lb ed="#V" n="79" break="no"/>ex amore: sed secundum <ref>philosophum I ethi. c. I.</ref> Omnia 
             bo<lb ed="#V" n="80" break="no"/>num appetunt: ergo in omnibus est aliquis amor.
           </p>
           <p xml:id="kzz7yh-g68274-d1e164">
